@@ -102,7 +102,7 @@ public class Dashboard extends JFrame {
 		contentPane.add(lblGestion);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\Documents\\Eclipse\\SA2\\images\\mer.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\git\\repository\\SA2\\images\\mer.jpg"));
 		lblNewLabel.setBounds(0, 0, 432, 253);
 		contentPane.add(lblNewLabel);
 		

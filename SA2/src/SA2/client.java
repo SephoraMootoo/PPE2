@@ -646,7 +646,7 @@ public class client extends JFrame {
 		contentPane.add(lblCritres);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\Documents\\Eclipse\\SA2\\images\\1.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\git\\repository\\SA2\\images\\1.jpg"));
 		lblNewLabel.setBounds(0, 0, 1097, 658);
 		contentPane.add(lblNewLabel);
 		
