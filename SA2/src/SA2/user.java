@@ -476,7 +476,7 @@ public class user extends JFrame {
 		contentPane.add(lblCritère);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\Documents\\Eclipse\\SA2\\images\\user.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\git\\repository\\SA2\\images\\user.jpg"));
 		lblNewLabel.setBounds(0, 0, 907, 533);
 		contentPane.add(lblNewLabel);
 		

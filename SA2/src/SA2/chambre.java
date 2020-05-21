@@ -316,7 +316,7 @@ public class chambre extends JFrame {
 		contentPane.add(lblCritre);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\Documents\\Eclipse\\SA2\\images\\CHAMBREC.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\git\\repository\\SA2\\images\\CHAMBREC.jpg"));
 		lblNewLabel.setBounds(12, 0, 1199, 709);
 		contentPane.add(lblNewLabel);
 	}

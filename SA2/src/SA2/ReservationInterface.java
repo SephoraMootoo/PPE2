@@ -530,7 +530,7 @@ public class ReservationInterface extends JFrame {
 		JLabel lblNewLabel_1 = new JLabel("New label");
 		lblNewLabel_1.setForeground(new Color(240, 255, 240));
 		lblNewLabel_1.setBackground(Color.WHITE);
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\User\\Documents\\Eclipse\\SA2\\images\\13.jpg"));
+		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\User\\git\\repository\\SA2\\images\\13.jpg"));
 		lblNewLabel_1.setBounds(0, 0, 1287, 753);
 		contentPane.add(lblNewLabel_1);
 		

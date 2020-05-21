@@ -216,7 +216,7 @@ public class Login {
 		
 		JLabel lblNewLabel = new JLabel("New label");
 		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 13));
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\Documents\\Eclipse\\SA2\\images\\unnamed.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\git\\repository\\SA2\\images\\unnamed.jpg"));
 		lblNewLabel.setBounds(0, 0, 442, 253);
 		frame.getContentPane().add(lblNewLabel);
 		
